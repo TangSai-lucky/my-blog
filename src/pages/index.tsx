@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;122121212
+            Get started by editing&nbsp;122121212dsdwsd
             <code className={styles.code}>src/pages/index.tsx</code>
           </p>
           <div>
